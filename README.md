@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Snake animation](https://github.com/https://github.com/Lucasantos-S/github-contribution-grid-snake.svg)
 
 <!--
 **Lucasantos-S/Lucasantos-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
