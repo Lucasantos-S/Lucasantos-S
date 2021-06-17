@@ -1,7 +1,7 @@
 ### Olá, bem vindo, eu sou o Lucas santos. 👋
 
 <a href="https://github.com/Lucasantos-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasantos-S_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasantos-Sicons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantos-S&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
