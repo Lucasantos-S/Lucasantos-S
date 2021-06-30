@@ -10,10 +10,9 @@
  <br/> Sou um Front-end em constante evolução!:computer:
 
  :mag_right: &nbsp; Estou trabalhando como Técnico em Eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor 
- <br/> :rocket: &nbsp; Estou cursando Engenharia de Controle e Automação e estudando na Rocketseat, no Bootcamp LaunchBase 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos ReactJS e NodeJs mas estou sempre aberto a coisas novas!
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Funções Javascript
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js  & Typescript
+ <br/> :rocket: &nbsp; Estou cursando Sistema de informação e estudando na Rocketseat e nos Bootcamp da Digital Innovation One. 
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em JS, HTML s CSS mas estou sempre aberto a coisas novas!
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS  & javascript.
  
   <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
 | [![Outlook Badge](https://img.shields.io/badge/Gmail-LucasSantos-blue)](mailto:lucassantos.dsilv@gmail.com)
