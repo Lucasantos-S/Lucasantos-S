@@ -10,10 +10,10 @@
 <div> 
  
   <a href="https://github.com/Lucasantos-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasantos-S&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantos-S&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucasantos-S&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantos-S&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
