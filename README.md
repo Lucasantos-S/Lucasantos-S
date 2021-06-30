@@ -14,7 +14,7 @@
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em JS, HTML s CSS mas estou sempre aberto a coisas novas!
  <br/> :computer: &nbsp; Minha stack: HTML, CSS  & javascript.
  
-  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
+  <br/> :email: &nbsp; Entre em contato comigo:  <br/>  <br/> [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
 | [![Outlook Badge](https://img.shields.io/badge/Gmail-LucasSantos-blue)](mailto:lucassantos.dsilv@gmail.com)
 
 <div align="center" style="display: inline_block"><br>
