@@ -7,6 +7,8 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantos-S&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
+ <br/> Sou um Fullstack Developer Jr em constante evolução!:computer:
+
  :mag_right: &nbsp; Estou trabalhando como Técnico em Eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor 
  <br/> :rocket: &nbsp; Estou cursando Engenharia de Controle e Automação e estudando na Rocketseat, no Bootcamp LaunchBase 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos ReactJS e NodeJs mas estou sempre aberto a coisas novas!
