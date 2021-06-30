@@ -26,7 +26,7 @@
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Funções Javascript
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js  & Typescript
 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThalesSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-c-santana/)](https://www.linkedin.com/in/thales-c-santana/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucasasntos-s//)](https://https://www.linkedin.com/in/lucasasntos-s/) 
 | [![Outlook Badge](https://img.shields.io/badge/Outlook-ThalesSantana-blue)](mailto:thales.c.santana@outlook.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesantana&show_icons=true&theme=tokyonight)
