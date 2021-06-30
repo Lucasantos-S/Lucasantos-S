@@ -25,7 +25,7 @@
 
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
-| [![Outlook Badge](https://img.shields.io/badge/Outlook-ThalesSantana-blue)](mailto:lucassantos.dsilv@gmail.com)
+| [![Outlook Badge](https://img.shields.io/badge/Gmail-LucasSantos-blue)](mailto:lucassantos.dsilv@gmail.com)
 
 
 
