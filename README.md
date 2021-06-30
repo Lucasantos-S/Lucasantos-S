@@ -24,8 +24,8 @@
 
 
 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-c-santana/)](https://www.linkedin.com/in/thales-c-santana/) 
-| [![Outlook Badge](https://img.shields.io/badge/Outlook-ThalesSantana-blue)](mailto:thales.c.santana@outlook.com)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
+| [![Outlook Badge](https://img.shields.io/badge/Outlook-ThalesSantana-blue)](mailto:lucassantos.dsilv@gmail.com)
 
 
 
