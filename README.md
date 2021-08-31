@@ -1,4 +1,4 @@
-## Olá, bem vindo! Eu sou o Lucas santos. 👋
+## Olá, bem vindo! Eu sou o Lucas Silva. 👋
 
 <div> 
  
