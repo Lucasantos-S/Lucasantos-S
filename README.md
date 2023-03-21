@@ -9,7 +9,7 @@
  
  <br/> Sou um Front-end em constante evolução!:computer:
 
- :mag_right: &nbsp; Atualmente atuando como front end developer junior na <h2>Qesh Payments</h>.
+ :mag_right: &nbsp; Atualmente atuando como front end developer junior na Qesh Payments.
  <br/> :computer: &nbsp; Minha stack: Reactjs, TypeScript, Tailwindcss, Sass, styled-components.
  
   <br/> :email: &nbsp; Entre em contato comigo:  <br/>  <br/> [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
