@@ -10,6 +10,7 @@
  <h3>Sou um Front-end em constante evolução!:computer: </h3>
 
  :mag_right: &nbsp; Atualmente atuando como front end developer junior na Qesh Payments.
+ <br/>
  <br/> :computer: &nbsp; Minha stack: Reactjs, TypeScript, Tailwindcss, Sass, styled-components.
  
   <br/> :email: &nbsp; Entre em contato comigo:  <br/>  <br/> [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasasntos-s/)](https://www.linkedin.com/in/lucasasntos-s/) 
@@ -17,6 +18,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
