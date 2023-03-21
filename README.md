@@ -7,7 +7,7 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantos-S&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
- <br/> Sou um Front-end em constante evolução!:computer:
+ <h3>Sou um Front-end em constante evolução!:computer: </h3>
 
  :mag_right: &nbsp; Atualmente atuando como front end developer junior na Qesh Payments.
  <br/> :computer: &nbsp; Minha stack: Reactjs, TypeScript, Tailwindcss, Sass, styled-components.
