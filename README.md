@@ -9,7 +9,7 @@
  
  <h3>Sou um Front-end em constante evolução!:computer: </h3>
 
- :mag_right: &nbsp; Atualmente atuando como front end developer junior na Qesh Payments.
+ :mag_right: &nbsp; Atuando como front end developer junior na Qesh Payments.
  <br/>
  <br/> :computer: &nbsp; Minha stack: Reactjs, TypeScript, Tailwindcss, Sass, styled-components.
  
